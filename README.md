@@ -9,7 +9,6 @@ First, install the required Python packages:
 bash
 pip install fastapi uvicorn openai black python-multipart
 
-
 run the Backend
 Start the FastAPI server:
 bash
